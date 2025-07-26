@@ -11,3 +11,6 @@ A serverless web application that allows users feedback and instantly receive se
 - Serverless backend with **AWS Lambda + API Gateway**
 - Frontend hosted on **S3 Static Website Hosting**
 - CORS-enabled API
+
+<img width="670" height="581" alt="image" src="https://github.com/user-attachments/assets/f2b60361-4d72-49cb-8fb2-4d430be07c05" />
+
